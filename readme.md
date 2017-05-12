@@ -1,1 +1,1 @@
-200 karaですよ aaaaaaaaa
+200 karaですよ aaa
