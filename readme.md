@@ -1,1 +1,1 @@
-200 karaですよ aaa
+200 karaですよkarakaraempty aaa
