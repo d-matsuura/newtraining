@@ -1,2 +1,2 @@
-200 karaですよkarakaraempty aaa
+200 karaですよkarakaraempty bbb
 てきすとをしゅうせいします
